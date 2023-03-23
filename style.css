@@ -95,7 +95,7 @@ a:hover{
       gap: .5rem;
   }
   #hamburger{
-      color: white;
+      color: rgb(43, 255, 0);
       border-top: 2px solid;
       width: 20px;
   }
